@@ -2,7 +2,7 @@
   @include clearfix;
   @include container(100%);
   padding: 0;
-  @include backImage('../images/hotel/attractions.jpg');
+  @include backImage('../images/union/WebsterAveunkyard.jpg');
 
   @include display-flex();
   @include align-items(center);
